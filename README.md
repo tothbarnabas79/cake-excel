@@ -18,7 +18,7 @@ A plugin to generate Excel files with CakePHP.
 _[Using [Composer](http://getcomposer.org/)]_
 
 ```
-composer require dakota/cake-excel
+composer require tothbarnabas79/cake-excel
 ```
 
 ### Enable plugin
