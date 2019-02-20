@@ -1,27 +1,14 @@
 {
-    "name": "dakota/cake-excel",
+    "name": "tothbarnabas79/cake-excel",
     "type": "cakephp-plugin",
     "description": "CakePHP excel generator",
     "keywords": [
         "cakephp",
-        "dakota",
+        "tothbarnabas79",
         "excel",
         "phpexcel"
     ],
-    "homepage": "https://github.com/dakota/CakeExcel",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Walther Lalk",
-            "email": "emailme@waltherlalk.com"
-        }
-    ],
-    "modifier": [
-        {
-            "name": "Daren Sipes",
-            "email": "daren@sipes.me"
-        }
-    ],
     "require": {
         "php": ">=5.6.0",
         "cakephp/cakephp": "^3.6",
